@@ -1,0 +1,6 @@
+{
+  "name": "Translify",
+  "description": "Next-generation AI-powered language translation web app with real-time translation, tone adjustment, grammar correction, cultural explanations, and voice support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
